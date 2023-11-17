@@ -10,8 +10,5 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dauma)](https://velog.io/@dauma) 
 
 ----------------------------------------
-## Visits
-<p align="center">
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@dldltkdals?theme=gelbooru"/></a>
-</p>
+
 
